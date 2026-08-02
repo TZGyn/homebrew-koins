@@ -1,6 +1,6 @@
 cask "koins" do
   version "0.0.2"
-  sha256 "10b573dabdf0ef4e26d81ab26d417eb998abd044f0654ba2472d3f8317056cfa"
+  sha256 "a83a5082c2430be9b33ef3258b1998407006caab13062ae035525213128fb46f"
 
   url "https://github.com/TZGyn/koins/releases/download/v#{version}/stable-macos-arm64-koins.dmg"
   name "Koins"
